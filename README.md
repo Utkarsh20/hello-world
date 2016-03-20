@@ -2,4 +2,4 @@
 first repository
 
 Hello 
-I am Utkarsh and I am learning how t use github.
+I am Utkarsh and I am learning how to use github.
